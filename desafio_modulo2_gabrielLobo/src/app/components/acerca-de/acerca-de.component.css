@@ -5,14 +5,14 @@ div{
     background: #c4c4c4;  
 }
 /*Estilo de la foto de perfil*/
-@media (min-width: 576px){
+@media (min-width: 575px){
     #fotodeperfil{
         position: absolute;
         width: 15%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 2%;
-        top: 615px;
+        top: 575px;
     }
 }
 @media (max-width: 575px){
@@ -22,7 +22,7 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 27%;
-        top: 580px;
+        top: 650px;
     }
 }
 
