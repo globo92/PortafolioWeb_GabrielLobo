@@ -4,7 +4,7 @@
     align-items: center;
 }
 .redes{
-    margin-right: 0.2em;
+    margin-right: 7px;
 }
 #logoAP{
     width: 150px;
@@ -14,6 +14,12 @@ img{
 }
 .btn{
     border-width: medium;
+}
+.redes img{
+    margin: 4px;
+}
+.btn{
+    margin-left: 7px;
 }
 /*--- Para la lista de celular ---*/
 @media(max-width: 575px){
@@ -26,6 +32,6 @@ img{
         align-items: center;
     }
     .redes img{
-        margin: 0.1em;
+        margin: 4px;
     }
 }
